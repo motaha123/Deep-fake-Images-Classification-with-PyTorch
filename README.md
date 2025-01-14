@@ -2,6 +2,9 @@
 This repository contains a comprehensive implementation of deep fake models for image classification using PyTorch.
 The project supports several popular architectures, including AlexNet, ResNet50, DenseNet121, MobileNetV2, and Vision Transformer (ViT). It also includes utilities for hyperparameter optimization, fine-tuning, and cross-validation.
 
+dataset link for real fake images
+https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
+
 Features
 
 Model Support:
